@@ -1,12 +1,19 @@
 package com.amazon.pages;
-
+/**
+ * @author Rajendra_nagaboina
+ */
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
-
+/**
+ * Home page.
+ */
 public class HomePage extends Page {
-	
+	/**
+	 * 
+	 * @param driver
+	 */
 	public HomePage(WebDriver driver) {
 		super(driver);
 	}
