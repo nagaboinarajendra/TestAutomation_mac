@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-09-16T06:11:40Z" name="Default suite" finished-at="2018-09-16T06:13:58Z" duration-ms="137566">
+    <groups>
+    </groups>
+    <test started-at="2018-09-16T06:11:40Z" name="Default test" finished-at="2018-09-16T06:13:58Z" duration-ms="137566">
+      <class name="browsers.BrowserFactory">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:browsers.BrowserFactory@68567e20]" started-at="2018-09-16T06:11:40Z" name="beforeTest" finished-at="2018-09-16T06:11:41Z" duration-ms="510" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:browsers.BrowserFactory@68567e20]" started-at="2018-09-16T06:11:41Z" name="beforeMethod" finished-at="2018-09-16T06:13:04Z" duration-ms="82843" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="launchGoogleTest()[pri:0, instance:browsers.BrowserFactory@68567e20]" started-at="2018-09-16T06:13:04Z" name="launchGoogleTest" finished-at="2018-09-16T06:13:16Z" duration-ms="12276" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchGoogleTest -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:browsers.BrowserFactory@68567e20]" started-at="2018-09-16T06:13:16Z" name="afterMethod" finished-at="2018-09-16T06:13:18Z" duration-ms="1740" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:browsers.BrowserFactory@68567e20]" started-at="2018-09-16T06:13:18Z" name="beforeMethod" finished-at="2018-09-16T06:13:26Z" duration-ms="7882" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="launchTestAutomationGuruTest()[pri:0, instance:browsers.BrowserFactory@68567e20]" started-at="2018-09-16T06:13:26Z" name="launchTestAutomationGuruTest" finished-at="2018-09-16T06:13:36Z" duration-ms="10717" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchTestAutomationGuruTest -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:browsers.BrowserFactory@68567e20]" started-at="2018-09-16T06:13:36Z" name="afterMethod" finished-at="2018-09-16T06:13:37Z" duration-ms="226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:browsers.BrowserFactory@68567e20]" started-at="2018-09-16T06:13:37Z" name="beforeMethod" finished-at="2018-09-16T06:13:41Z" duration-ms="3940" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="launchYahooTest()[pri:0, instance:browsers.BrowserFactory@68567e20]" started-at="2018-09-16T06:13:41Z" name="launchYahooTest" finished-at="2018-09-16T06:13:57Z" duration-ms="16126" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchYahooTest -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:browsers.BrowserFactory@68567e20]" started-at="2018-09-16T06:13:57Z" name="afterMethod" finished-at="2018-09-16T06:13:57Z" duration-ms="621" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- browsers.BrowserFactory -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
